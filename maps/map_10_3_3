@@ -1,0 +1,14 @@
+#ants
+10
+#rooms
+##start
+start 0 0
+only 1 0
+nonly 0 1
+##end
+end 2 0
+#tubes
+start-only
+start-nonly
+only-end
+nonly-end

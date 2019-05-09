@@ -1,0 +1,23 @@
+#ants
+10
+#rooms
+##start
+start 0 0
+two 2 2
+one 1 0
+ones 0 1
+onet 1 1
+twos 3 3
+twot 3 3
+##end
+end 2 0
+#tubes
+start-two
+start-one
+one-ones
+two-twos
+ones-onet
+twos-twot
+onet-end
+twot-end
+two-onet

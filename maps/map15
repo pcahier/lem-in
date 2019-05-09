@@ -1,0 +1,36 @@
+#15aw1
+#dawdw
+#awdwad
+#wadad
+#dwawd
+#awd
+#wadawd
+#ants
+#rooms
+10
+##start
+start 0 0
+sal0 0 
+sal1 1 1
+sal2 2 2
+sal3 3 3
+sal4 4 4
+sal5 5 5
+sal6 6 6
+##end
+end 2 0
+#tubes
+start-sal0
+start-sal1
+sal0-sal2
+sal1-sal3
+sal2-sal4
+sal3-sal4
+sal4-sal5
+sal4-sal6
+sal5-end
+sal6-end
+#efsef
+#efef
+#efefsef
+#esfsef
